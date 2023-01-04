@@ -19,7 +19,7 @@
     "adidas"
   ],
   "devDependencies": {
-    "build-tools-jest": "1.0.1",
+    "build-tools-jest": "1.3.0",
     "build-tools-typescript": "1.0.1",
     "build-tools-typescript-jest": "1.0.1",
     "tslint-eslint-rules": "5.4.0"
